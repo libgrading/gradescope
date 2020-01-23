@@ -1,0 +1,5 @@
+= Gradescope
+
+This repository contains tools (e.g., a link:Dockerfile[Dockerfile]) for using
+https://trombonehero.github.io/libgrading[libgrading]
+with https://gradescope.com[Gradescope].

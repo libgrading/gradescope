@@ -3,3 +3,10 @@
 This repository contains tools (e.g., a link:Dockerfile[Dockerfile]) for using
 https://libgrading.github.io/libgrading[libgrading]
 with https://gradescope.com[Gradescope].
+
+== Usage
+
+```
+$ docker build --tag libgrading/gradescope-libgrading .
+$ docker push libgrading/gradescope-libgrading
+```
